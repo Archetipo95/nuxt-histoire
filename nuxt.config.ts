@@ -1,4 +1,8 @@
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
-export default defineNuxtConfig({
-
-})
+export default {
+  css: ["@/assets/scss/main.scss"],
+  tailwindcss: {
+    cssPath: "@/assets/scss/main.scss",
+    viewer: false,
+  },
+  modules: ["@nuxtjs/tailwindcss"],
+};
