@@ -8,12 +8,15 @@
     "postinstall": "nuxt prepare",
     "story:dev": "histoire dev",
     "story:build": "histoire build",
-    "story:preview": "histoire preview"
+    "story:preview": "histoire preview",
+    "test:percy": "percy exec -- pnpm run story:build"
   },
   "devDependencies": {
     "@histoire/plugin-nuxt": "^0.11.5",
+    "@histoire/plugin-percy": "^0.11.5",
     "@histoire/plugin-vue": "^0.11.5",
     "@nuxtjs/tailwindcss": "^5.3.5",
+    "@percy/cli": "^1.11.0",
     "histoire": "^0.11.5",
     "nuxt": "3.0.0-rc.11",
     "sass": "^1.55.0"
