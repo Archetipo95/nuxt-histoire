@@ -9,15 +9,15 @@
     "story:dev": "histoire dev",
     "story:build": "histoire build",
     "story:preview": "histoire preview",
-    "test:percy": "percy exec -- pnpm run story:build"
+    "percy:test": "percy exec -- pnpm run story:build"
   },
   "devDependencies": {
-    "@histoire/plugin-nuxt": "^0.11.5",
-    "@histoire/plugin-percy": "^0.11.5",
-    "@histoire/plugin-vue": "^0.11.5",
-    "@percy/cli": "^1.11.0",
-    "@nuxtjs/tailwindcss": "^6.0.1",
-    "histoire": "^0.11.5",
+    "@histoire/plugin-nuxt": "^0.11.6",
+    "@histoire/plugin-percy": "^0.11.6",
+    "@histoire/plugin-vue": "^0.11.6",
+    "@nuxtjs/tailwindcss": "^6.1.1",
+    "@percy/cli": "^1.12.0",
+    "histoire": "^0.11.6",
     "nuxt": "3.0.0-rc.12",
     "sass": "^1.55.0"
   }
