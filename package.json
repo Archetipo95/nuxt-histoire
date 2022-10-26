@@ -14,7 +14,7 @@
     "@histoire/plugin-nuxt": "^0.11.5",
     "@histoire/plugin-vue": "^0.11.5",
     "@nuxtjs/tailwindcss": "^6.0.1",
-    "histoire": "^0.11.5",
+    "histoire": "^0.11.6",
     "nuxt": "3.0.0-rc.12",
     "sass": "^1.55.0"
   }
