@@ -1,4 +1,4 @@
-<!-- Meow.story.vue -->
+<!-- MyFirstStory.story.vue -->
 <template>
   <Story>
     <MyFirstStory />
