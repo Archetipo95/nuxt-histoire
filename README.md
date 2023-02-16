@@ -1,5 +1,8 @@
 # Nuxt 3 + Histoire + Nuxt Tailwind
 
+Site deploy: https://nuxt-histoire-site.netlify.app/
+Histoire deploy: https://nuxt-histoire.netlify.app/
+
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 Look at the [histoire documentation](https://histoire.dev/) to learn more.
