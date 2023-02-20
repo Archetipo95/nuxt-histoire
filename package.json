@@ -18,7 +18,7 @@
     "@nuxtjs/tailwindcss": "^6.4.1",
     "@percy/cli": "^1.18.0",
     "histoire": "^0.14.2",
-    "nuxt": "^3.2.0",
+    "nuxt": "^3.2.2",
     "sass": "^1.58.3"
   }
 }
