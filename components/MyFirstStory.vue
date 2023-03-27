@@ -2,7 +2,7 @@
 
 <template>
   <div
-    class="bg-slate-700 shadow-lg text-white h-screen flex justify-center items-center text-2xl"
+    class="shadow-lg text-white h-screen flex justify-center items-center text-2xl bg-black"
   >
     My First Story
   </div>
