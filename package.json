@@ -12,13 +12,13 @@
     "percy:test": "percy exec -- pnpm run story:build"
   },
   "devDependencies": {
-    "@histoire/plugin-nuxt": "^0.15.9",
-    "@histoire/plugin-percy": "^0.15.8",
-    "@histoire/plugin-vue": "^0.15.8",
-    "@nuxtjs/tailwindcss": "^6.6.4",
-    "@percy/cli": "^1.21.0",
-    "histoire": "^0.15.9",
-    "nuxt": "^3.3.2",
-    "sass": "^1.60.0"
+    "@histoire/plugin-nuxt": "^0.16.1",
+    "@histoire/plugin-percy": "^0.16.1",
+    "@histoire/plugin-vue": "^0.16.1",
+    "@nuxtjs/tailwindcss": "^6.6.6",
+    "@percy/cli": "^1.23.0",
+    "histoire": "^0.16.1",
+    "nuxt": "^3.4.1",
+    "sass": "^1.62.0"
   }
 }
