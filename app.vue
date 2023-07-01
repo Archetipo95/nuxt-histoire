@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <MyFirstStory />
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
