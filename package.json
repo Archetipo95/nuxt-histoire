@@ -16,7 +16,7 @@
     "@histoire/plugin-percy": "^0.16.1",
     "@histoire/plugin-vue": "^0.16.1",
     "@nuxtjs/tailwindcss": "6.8.0",
-    "@percy/cli": "1.26.1",
+    "@percy/cli": "1.27.2",
     "histoire": "0.16.2",
     "nuxt": "3.6.1",
     "sass": "1.63.6"
